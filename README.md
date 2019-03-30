@@ -7,6 +7,10 @@ Official Course Link: http://web.stanford.edu/class/cs224n/
 
 ## Topics
 
+### Assignments
+
+- [ ] Assignment 1
+
 ### Introduction and Word Vectors
 
 Suggested Readings:
