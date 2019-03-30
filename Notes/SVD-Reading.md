@@ -1,0 +1,3 @@
+# Concepts
+
+- [ ] Gram-Schmidt orthonormalization
