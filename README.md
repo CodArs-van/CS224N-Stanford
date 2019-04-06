@@ -7,6 +7,16 @@ Official Course Link: http://web.stanford.edu/class/cs224n/
 
 ## Topics
 
+### Course Videos
+
+- [x] Lecture 1
+- [x] Lecture 2
+
+### Decks Review
+
+- [ ] Lecture 1
+- [ ] Lecture 2
+
 ### Assignments
 
 - [x] Assignment 1
