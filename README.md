@@ -11,6 +11,7 @@ Official Course Link: http://web.stanford.edu/class/cs224n/
 
 - [x] Lecture 1
 - [x] Lecture 2
+- [x] Lecture 3
 
 ### Course Decks Review
 
